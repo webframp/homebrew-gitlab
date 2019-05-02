@@ -1,3 +1,7 @@
+## Deprecated
+
+Use `brew install zaquestion/tap/lab` now
+
 # Gitlab cli cask
 
 binary install of cli tool for interacting with gitlab
